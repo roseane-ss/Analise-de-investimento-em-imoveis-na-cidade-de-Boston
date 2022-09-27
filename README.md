@@ -1,2 +1,3 @@
 # Previa-Projeto-Final
- Prévia do projeto final do curso de Data Analytics. Análise da melhor área para investimento de propriedades em Orlando (EUA)
+Análise de quais áreas da cidade de Boston (EUA) é mais vantajoso investir em uma propriedade para aluguel, utilizando a base de dados do Airbnb (projeto em fase de melhoria e conclusão);
+Ferramentas utilizadas: Google Sheets e SQL.
